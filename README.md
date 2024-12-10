@@ -1,2 +1,2 @@
-# smile
-repositorio do projeto aonde está o smile
+# Smile_Game
+Repositório do jogo Aonde está o Smile?

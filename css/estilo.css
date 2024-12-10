@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&display=swap');
+.invisivel{
+    display:none;
+  }
+  .visivel{
+    display:inline;
+  }
+  .inicial {
+    text-align: center;
+    font-size: 100px;
+    background-color: rgb(158, 119, 177);
+    width: 150px;
+    height: 200px;
+    border: 15px solid rgb(195, 181, 199);
+    padding: 10px;
+    margin: 20px;
+    border-radius:40%;
+  }
+  .acertou {
+    text-align: center;
+    color: yellow;
+    background-color: LawnGreen;
+    width: 150px;
+    height: 200px;
+    border: 15px solid yellow;
+    padding: 10px;
+    margin: 20px;
+    border-radius:40%;
+  }
+  .errou {
+    text-align: center;
+    color: white;
+    background-color: red;
+    width: 150px;
+    height: 200px;
+    border: 15px solid black;
+    padding: 10px;
+    margin: 20px;
+    border-radius:40%;
+  }
+  nav{
+    background-color:rgb(218, 218, 106);
+    text-align: center;
+    font-size:large;
+    font-family: "Averia Gruesa Libre", system-ui;
+
+  }
+  
+
+
+  
